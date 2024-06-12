@@ -1,0 +1,9 @@
+{
+    "symbols": [
+        "INJ",
+        "BTC",
+        "ETH",
+        "BNB"
+    ],
+    "interval": "1h"
+}
